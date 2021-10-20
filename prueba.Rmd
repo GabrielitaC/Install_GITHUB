@@ -1,6 +1,6 @@
 ---
 title: "install_GITHUB"
-author: "Gabriela Covarrubias"
+author: "Gabriela Covarrubias Ale"
 date: "20-10-2021"
 output: html_document
 ---
